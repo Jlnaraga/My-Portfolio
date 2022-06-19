@@ -1,12 +1,12 @@
-# My-Portfolio
+# jovy-ira-portfolio
 
 Module 2 Challenge
 
-This site was built using [GitHub Pages](https://jlnaraga.github.io/My-Portfolio/)
+This site was built using [GitHub Pages](https://jlnaraga.github.io/jovy-ira-portfolio/)
 
-[GitHub Repository](https://github.com/Jlnaraga/My-Portfolio.git)
+[GitHub Repository](https://github.com/Jlnaraga/jovy-ira-portfolio.git)
 
 # Screenshots
-![Desktop View](./sceenshots/jlnaraga.github.io_My-Portfolio_%20(1).png)
+![Desktop View](./sceenshots/jovy-ira-portfolio.desktop-view.png)
 
-![Responsive View](./sceenshots/jlnaraga.github.io_My-Portfolio_(iPad%20Air).png)
+![Responsive View](./sceenshots/jovy-ira-portfolio.responsive-view.png)
